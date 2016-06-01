@@ -7,6 +7,7 @@ gem 'hamlit-rails'
 gem 'jquery-rails'
 gem 'pg'
 gem 'puma'
+gem 'rom-rails'
 gem 'sass-rails'
 gem 'uglifier'
 
