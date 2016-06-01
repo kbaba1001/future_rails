@@ -1,3 +1,24 @@
 source 'https://rubygems.org'
 
 gem 'rails'
+
+# gem 'coffee-rails'
+gem 'hamlit-rails'
+gem 'jquery-rails'
+gem 'pg'
+gem 'puma'
+gem 'sass-rails'
+gem 'uglifier'
+
+group :development, :test do
+  gem 'bullet'
+  gem 'pry-byebug'
+  gem 'pry-rails'
+end
+
+group :development do
+  gem 'annotate'
+  gem 'i18n-debug'
+  gem 'quiet_assets'
+  gem 'rails-erd'
+end
