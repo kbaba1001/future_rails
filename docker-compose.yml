@@ -18,6 +18,6 @@ web:
     - DB_PASSWORD=
     - DB_HOST=db
 bundle:
-  image: future_rails_web
+  image: futurerails_web
   volumes:
     - /bundle
