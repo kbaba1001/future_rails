@@ -8,6 +8,7 @@ gem 'jquery-rails'
 gem 'pg'
 gem 'puma'
 gem 'rom-rails'
+gem 'rom-sql'
 gem 'sass-rails'
 gem 'uglifier'
 
